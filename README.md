@@ -9,12 +9,6 @@ Rebase, then more changes
 
 Sample website with plenty of files for demos
 
-<<<<<<< HEAD
 ## Copyright
 
-2020 test
-=======
-## Deployment
-
-## How to Contribute
->>>>>>> 046f8330ea7f4545725929170dadcf81c6379540
+2020 test. All right reserved.
